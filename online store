@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>online book store</title>
+    </head>
+    <frameset rows= "18%,15%,80%">
+        <frameset cols="15%,80%" border="0%">
+            <frame src="logo.html"></frame>
+            <frame src="text heading.html"></frame>
+        </frameset>
+        <frameset>
+            <frame src="page links.html"></frame>
+        </frameset>
+        <frameset cols="10%,90%">
+            <frame src="branches.html"></frame>
+            <frame src="welcomepage.html" name="display"></frame>
+        </frameset>
+    </frameset>
+    <body>
+
+    </body>
+</html>
