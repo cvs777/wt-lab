@@ -1,0 +1,28 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <center>
+            <h1><u>Registration Form</u></h1>
+        <form action="#" method="get">
+        Name:<input type="text" name="name"></input><br><br>
+        Password:<input type="password" name="psd"></input><br><br>
+        Address:<textarea rows="5" cols="15" name="address"></textarea><br><br>
+        Email:<input type="email" name="email"></input><br><br>
+        PhoneNumber:<input type="text" name="phn"></input><br><br>
+        Sex:<input type="radio" name="sex" value="male">male</input>
+        <input type="radio" name="sex" value="female">female</input> <br><br>
+        Dateofbirth:
+        <input type="date"></input><br><br>
+        Language Known:
+        <br>
+         english:<input type="checkbox" value="english" name="lan"></input><br>
+        telugu:<input type="checkbox" value="telugu" name="lan"></input><br>
+        hindi:<input type="checkbox" value="hindi" name="lan"></input><br>
+        tamil:<input type="checkbox" value="tamil" name="lan"></input> <br><br>
+        <button type="submit" value="submit">submit</button>
+        <button type="reset" >reset</button>
+        </form>
+    </center>
+    </body>
+</html>
