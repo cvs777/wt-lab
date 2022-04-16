@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title> TIME TABLE</title> 
+    </head>
+    <body>
+        <center>
+            <h1><u>TIME TABLE</u></h1>
+         <table border="2" cellpadding="2" cellspacing="0">
+             <tr>
+                 <td> </td>
+                 <th>1 <br>9:00-9.50</th>
+                 <th>2 <br>9:50-10.40</th>
+                 <th>3 <br>10.40-11.30</th>
+                 <th>4 <br>11:30-12.20</th>
+                 <td rowspan="7" align="center"  >
+                     L<br>
+                     U<br>
+                     N<br>
+                     C<br>
+                     H<br>
+                     B<br>
+                     R<br>
+                     E<br>
+                     A<br>
+                     K<br>
+                 </td>
+                 <th>5 <br>1:45-2.35</th>
+                 <th>6 <br>2:35-3.25</th>
+                 <th>7 <br>3:25-4.15</th>
+                 <th>8 <br>4:15-5.25</th>
+             </tr>
+             <tr>
+                   <th>Mon</th>
+                   <td colspan="2" align="center">ACN</td>
+                   <td colspan="2" align="center">DWDM</td>
+                   <td colspan="2" align="center">OE</td>
+                   <td  align="center">VA</td>
+                   <td  align="center">SS</td>
+             </tr>
+             <tr>
+                <th>Tue</th>
+                <td colspan="4" align="center">DWDM LAB</td>
+                <td colspan="2" align="center">OE</td>
+                <td  align="center">---</td>
+                <td  align="center">---</td>
+             </tr>
+             <tr>
+                <th>Wed</th>
+                <td colspan="4" align="center">WT LAB</td>
+                <td colspan="2" align="center">WT</td>
+                <td  align="center">---</td>
+                <td  align="center">---</td>
+             </tr>
+             <tr>
+                <th>Thu</th>
+                <td colspan="2" align="center">DWDM</td>
+                <td colspan="2" align="center">ACN</td>
+                <td colspan="4" align="center">MOOCs</td>
+             </tr>
+             <tr>
+                <th>Fri</th>
+                <td colspan="2" align="center">WT</td>
+                <td colspan="2" align="center">EP-||(QA)</td>
+                <td colspan="4" align="center">CC LAB</td>
+             </tr>
+             <tr>
+                <th>Sat</th>
+                <td colspan="4" align="center">CC LAB</td>
+                <td  align="center">---</td>
+                <td  align="center">---</td>
+                <td  align="center">---</td>
+                <td  align="center">---</td>
+          </tr>
+
+         </table>
+        </center>
+    </body>
+</html>
+
